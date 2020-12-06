@@ -31,3 +31,9 @@ ideas to explore:
 * artists basic income (money streaming/pooling interest/community banking)
 
 <hr>
+contacts:
+
+* quackfund@protonmail.com
+
+<hr>
+
