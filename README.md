@@ -30,6 +30,7 @@ ideas to explore:
 * "netflix" for artists film / digital works -> maybe just private torrent tracker? 
     * https://github.com/Novage/wt-tracker
     * https://github.com/Novage/p2p-media-loader
+    * https://github.com/GRVYDEV/Project-Lightspeed
 * artists basic income (money streaming/pooling interest/community banking)
 
 <hr>
